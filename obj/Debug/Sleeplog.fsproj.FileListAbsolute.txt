@@ -1,0 +1,8 @@
+c:\users\alexa_000\documents\visual studio 2013\Projects\Sleeplog\Sleeplog\bin\Debug\Sleeplog.exe.config
+c:\users\alexa_000\documents\visual studio 2013\Projects\Sleeplog\Sleeplog\bin\Debug\Sleeplog.XML
+c:\users\alexa_000\documents\visual studio 2013\Projects\Sleeplog\Sleeplog\bin\Debug\Sleeplog.exe
+c:\users\alexa_000\documents\visual studio 2013\Projects\Sleeplog\Sleeplog\bin\Debug\Sleeplog.pdb
+c:\users\alexa_000\documents\visual studio 2013\Projects\Sleeplog\Sleeplog\bin\Debug\FSharp.Core.dll
+c:\users\alexa_000\documents\visual studio 2013\Projects\Sleeplog\Sleeplog\bin\Debug\FSharp.Core.xml
+c:\users\alexa_000\documents\visual studio 2013\Projects\Sleeplog\Sleeplog\obj\Debug\Sleeplog.exe
+c:\users\alexa_000\documents\visual studio 2013\Projects\Sleeplog\Sleeplog\obj\Debug\Sleeplog.pdb
